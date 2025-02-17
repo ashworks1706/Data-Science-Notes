@@ -530,6 +530,8 @@ https://www.youtube.com/watch?v=XU5pw3QRYjQ&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8
 
 # Snap Shots
 
+![image](https://github.com/user-attachments/assets/290ad97e-f4a1-466f-aa9c-b4ebf6312d7f)
+
 ![{963FFC85-B707-41F5-B52F-FE6E8F254913}.png](963FFC85-B707-41F5-B52F-FE6E8F254913.png)
 
 ![{6AC9C0E9-518C-4A49-A013-32DE3AD75D5D}.png](6AC9C0E9-518C-4A49-A013-32DE3AD75D5D.png)
